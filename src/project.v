@@ -1,10 +1,10 @@
 /* 
- * Copyright (c) 2026 Dheeraj Sharma
+ * Copyright (c) 2026 Your Name
  * SPDX-License-Identifier: Apache-2.0
  */
 `default_nettype none
 
-module tt_um_yourgithub_sine_chirp_beacon (
+module tt_um_dheeeraaj_sine_chirp_beacon (
     input  wire [7:0] ui_in,    // Dedicated inputs
     output wire [7:0] uo_out,   // Dedicated outputs
     input  wire [7:0] uio_in,   // IOs: input path
@@ -249,4 +249,3 @@ module tt_um_yourgithub_sine_chirp_beacon (
     endfunction
 
 endmodule
-
